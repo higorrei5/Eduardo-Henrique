@@ -1,0 +1,92 @@
+<html>
+<title>Porsche Wissen</title>
+
+<head>
+    <style>
+        body {
+            margin: 0;
+        }
+
+        .h1 {
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            font-size: 30px;
+            text-align: center;
+        }
+
+        .p1 {
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            text-align: center;
+            font-size: 17px;
+            background-image: url(https://s2.glbimg.com/k0IIIZSkgJ1uIMD4412bu0foD8U=/0x0:1400x934/924x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2022/4/4/pp3bdpSwqbXECicAxzbA/01-porsche.jpg);
+            background-size: 50px 80px;
+        }
+
+
+        img {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            width: 300%;
+        }
+
+        .topnav {
+            overflow: hidden;
+            background-color: black;
+            margin-top: 1%;
+            padding: 0;
+        }
+
+        .topnav a {
+            color: white;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+            font-size: 17px;
+            display: inline-block;
+        }
+
+        .topnav a:hover {
+            background-color: rgb(71, 70, 70);
+            color: white;
+        }
+
+        .article {
+            float: left;
+        }
+    </style>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Porsche_Wortmarke.svg/2560px-Porsche_Wortmarke.svg.png"
+    alt="porsche" style="width: 300px;">
+<div class="topnav">
+    <a class="active" href="./index.html">Inicio</a>
+    <a href="#Modelos">Modelos</a>
+    <a href="#Lojas">Lojas</a>
+    <a href="#Assistência">Assistencia</a>
+    <a href="#links">Links</a>
+    <a href="./contato.html">Contato</a>
+</div>
+
+<p class="p1">
+    A marca alemã Porsche foi fundada em 1931 por Ferdinand Porsche e o seu filho Ferry Porsche.
+    Ferdinand Porsche já era conhecido antes de fundar a Porsche, ele havia trabalhado para outras marcas.
+    Havia também lançado em 1900 o primeiro automóvel híbrido.
+    Em 1934 Ferdinand Porsche, depois de lhe ser
+    solicitado a criação de um automóvel acessível a todos os alemães, criou o Volkswagen Fusca. O Fusca serviu de
+    base mecânica ao Type 64 criado em 1939 e ao Porsche 356 produzido em 1948, sendo este o primeiro
+    Porsche
+
+    a ser produzido. O Porsche 356 recorria em grande parte às peças utilizadas no Volkswagen Fusca,
+    tais como motorização traseira com refrigeração a ar. Mais tarde o 356 viria a ser totalmente construído a
+    partir de
+    peças Porsche.
+    A utilização de um motor com refrigeração a ar e localização traseira foi desde o início, a principal
+    característica
+    da Porsche. Em 1951 Ferdinand Porsche morre devido a complicações de um enfarte, nesse mesmo ano a Porsche vence
+    a
+    classe nas 24h de Le Mans com o Porsche 356 SL, conseguindo assim notoriedade internacional.
+
+
+</p>
+</div>
+</html>
